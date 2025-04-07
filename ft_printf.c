@@ -6,12 +6,11 @@
 /*   By: czuniga- <czuniga-@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/08 15:04:47 by czuniga-          #+#    #+#             */
-/*   Updated: 2025/02/13 14:02:08 by czuniga-         ###   ########.fr       */
+/*   Updated: 2025/02/11 16:58:57 by czuniga-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-
 
 int	ft_printf(char const *format, ...)
 {
